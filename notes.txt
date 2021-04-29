@@ -1,0 +1,18 @@
+Next.js
+SASS
+
+
+FILE SYSTEM ROOT
+
+-----
+stripe -> sistema de pagamento via
+cartao de credito
+
+
+
+Métodos de autenticação
+
+ - JWT (applicações mais complexas)
+ - Cognito,
+ - Next Auth
+ - Auth0
